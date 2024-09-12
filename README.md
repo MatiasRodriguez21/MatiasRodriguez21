@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">Hi ,I´mMatias a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">Hi ,I´m Matias a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on proyecto for family bussines  
