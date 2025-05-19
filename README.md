@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Matías Rodríguez 👨‍💻</h1>
-<h3 align="center">Desarrollador Full Stack | JavaScript · Python · PostgreSQL</h3>
+<h3 align="center">Desarrollador Full Stack | React · Python</h3>
 
 <p align="center">
   <a href="mailto:mati.rodriguez1201@gmail.com">
@@ -10,9 +10,6 @@
   </a>
   <a href="https://mi-portafolio-tau-peach.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-informational?style=flat-square&logo=vercel" />
-  </a>
-  <a href="./Rodriguez%20Matias.pdf" download>
-    <img src="https://img.shields.io/badge/CV-Descargar-blueviolet?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
